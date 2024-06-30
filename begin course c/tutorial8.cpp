@@ -18,7 +18,7 @@ int main()
     // a++;
     for (int a = 0; a <= 40; a++)
     {
-        cout<<a<<endl;
+        cout<<a;
     }
     
     return 0;
